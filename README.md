@@ -30,6 +30,10 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
   * Search for his properties
   * View Past bookings
   
+### Basic Architecture Diagram
+
+![Alt text](HomeAway/ScreenShots/Kafka_Architecture.png?raw=true "Architecture")
+
 
 ## Screenshots
 
@@ -124,8 +128,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Front End 
 ## Install
 
-    $ git clone https://github.com/Anuragis/CMPE273-68.git
-    $ cd CMPE273-68/Lab3-013726401/FrontEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
+    $ cd VacationRentals-2.0/HomeAway/FrontEnd
     $ npm install
 
 ## Start & watch
@@ -136,8 +140,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ git clone https://github.com/Anuragis/CMPE273-68.git
-    $ cd CMPE273-68/Lab3-013726401/BackEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
+    $ cd VacationRentals-2.0/HomeAway/BackEnd
     $ npm install
 
 ## Start & watch
