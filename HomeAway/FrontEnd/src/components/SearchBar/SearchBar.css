@@ -1,0 +1,74 @@
+.container {
+	padding-top: 500px;
+	justify-content: center;
+	text-align: center;	
+	align-content: center;
+}
+
+  
+.centery {
+  /*position: fixed; /* or absolute */
+  top:15%;
+  padding-left: 15%;
+}
+.centerofpage
+{
+	padding-left: 50%;
+}
+
+.backgroundbutt
+{
+	width: 50px !important;
+}
+.colorful
+{
+	color: red;
+	list-style: none;
+    display: flex;
+}
+#pagenumbers 
+{
+  list-style: none;
+  display: flex;
+}
+#pagenumbers > p {
+	margin-right: 0.3em;
+	color: blue;
+	user-select: none;
+	cursor: pointer;
+  }
+
+.form-controly
+{
+	width: 100px;
+}
+
+.DatePicker
+{
+	width: 1000px;
+}
+
+.roundy
+{
+border-radius: 50px;
+}
+
+.movetocenter
+{
+	padding-left: 620px;
+}
+.smally
+{
+	width: 0px;
+}
+
+.reduce
+{
+	width: 100px !important;
+}
+
+.errorcenter
+{
+	padding-top: 20%;
+	padding-left: 35%;
+}

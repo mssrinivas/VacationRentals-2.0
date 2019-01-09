@@ -1,0 +1,119 @@
+Searching 59 files for "OwnerSidebar"
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/AddProperty/AddProperty.js:
+    2  import './AddProperty.css';
+    3  import OwnerNavigation from '../OwnerNavigation/OwnerNavigation';
+    4: import OwnerSideBar from '../OwnerSideBar/OwnerSideBar';
+    5  import ProgressBar from '../ProgressBar/ProgressBar';
+    6  import {Redirect} from 'react-router-dom';
+    .
+   35        {Redirecty}
+   36        <OwnerNavigation properties={this.state.propertylocation}  />
+   37:       <OwnerSideBar />
+   38        <div id="left">
+   39        <ProgressBar />
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/OwnerDashBoard/OwnerDashBoard.js:
+    1  import React from 'react';
+    2  import OwnerNavBar from '../OwnerNavBar/OwnerNavBar';
+    3: import OwnerSideBar from '../OwnerSideBar/OwnerSideBar';
+    4  import OwnerProperty from '../OwnerProperty/OwnerProperty';
+    5  import './OwnerDashBoard.css'
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/OwnerMain.js:
+    7  import OwnerProperty from './OwnerProperty/OwnerProperty';
+    8  import AddProperty from './AddProperty/AddProperty';
+    9: import OwnerSideBar from './OwnerSideBar/OwnerSideBar';
+   10  import OwnerNavigation from './OwnerNavigation/OwnerNavigation';
+   11  import PropertyLocation from './PropertyLocation/PropertyLocation';
+   ..
+   32            <Route exact path="/owner/account" component = {OwnerNavigation} />
+   33            <Route path="/addproperty" component= {PropertyLocation} />
+   34:           <Route path="/owner/account" component = {OwnerSideBar} />
+   35            <Route path="/owner/account" component = {OwnerAccount} />
+   36            </div>
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/OwnerNavigation/OwnerNavigation.js:
+    4  import {Redirect} from 'react-router';
+    5  import NavDropDown from './NavDropDown'
+    6: import OwnerSideBar from '../OwnerSideBar/OwnerSideBar'
+    7  
+    8  //create the Navbar Component
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/OwnerSideBar/OwnerSideBar.js:
+    1  import React,{Component} from 'react';
+    2: //import './OwnerSideBar.css';
+    3  //import {Redirect} from 'react-router-dom';
+    4: /*import styles from './OwnerSideBar.css';
+    5  import {Nav, NavItem, Navbar, NavDropdown, MenuItem, Glyphicon} from 'react-bootstrap';
+    6  
+    7: class OwnerSideBar extends Component {
+    8  
+    9      constructor(props) {
+   ..
+   47  
+   48  import { slide as Menu } from 'react-burger-menu'
+   49: import './OwnerSideBar.css';
+   50: class OwnerSideBar extends React.Component {
+   51   
+   52    render () {
+   ..
+   68  
+   69  
+   70: export default OwnerSideBar;
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/PlaceFinder/untitled.js:
+    4  import {Redirect} from 'react-router';
+    5  import NavDropDown from './NavDropDown'
+    6: import OwnerSideBar from '../OwnerSideBar/OwnerSideBar'
+    7  
+    8  //create the Navbar Component
+
+23 matches across 6 files
+
+
+Searching 64 files for "class="ui"
+
+/Users/local/Desktop/273/React/HomeAway/Front End/homeaway/src/components/Places/Places.js:
+   44  	  {
+   45  	  	return (
+   46:      <div class="ui divided items">
+   47    <div class="item">
+   48      <div class="image">
+   ..
+   58        </div>
+   59        <div class="extra">
+   60:         <div class="ui label">{this.props.bed} Bed</div>
+   61:         <div class="ui label">{this.props.bath} Bath</div>
+   62:         <div class="ui label">{this.props.price} per night</div>
+   63        </div>
+   64      </div>
+   ..
+   76    return (
+   77    	<div class="card3 card-2" >
+   78:      <div class="ui">
+   79    <div class="item">
+   80      <div class="image">
+   ..
+   90        </div>
+   91        <div class="extra">
+   92:         <div class="ui label">{props.bed} Bed</div>
+   93:         <div class="ui label">{props.bath} Bath</div>
+   94:         <div class="ui label">{props.price} per night</div>
+   95        </div>
+   96      </div>
+   ..
+  130  
+  131  
+  132: <div class="ui divided items">
+  133    <div class="item">
+  134      <div class="image">
+  ...
+  144        </div>
+  145        <div class="extra">
+  146:         <div class="ui label">IMAX</div>
+  147:         <div class="ui label"><i class="globe icon"></i> Additional Languages</div>
+  148        </div>
+  149      </div>
+
+11 matches in 1 file

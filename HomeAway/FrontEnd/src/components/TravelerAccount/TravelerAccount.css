@@ -1,0 +1,35 @@
+.accountinfo
+{
+	padding-top: 40px;
+}
+.container
+{
+	padding-top: 30px;
+}
+
+.forum
+{
+	padding-top: 20px;
+}
+
+.needs-validation
+{
+	text-align: left;
+	border-radius: 1px;
+}
+
+.shadowingcontainertraveller
+{
+	height: 80%;
+ 	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+ }
+
+.bluebutton
+{
+	background-color: #0067db;
+}
+
+.whitefont
+{
+	color : #fff;
+}

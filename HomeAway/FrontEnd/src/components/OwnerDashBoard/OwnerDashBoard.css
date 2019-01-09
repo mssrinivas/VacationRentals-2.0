@@ -1,0 +1,16 @@
+#upleft
+{
+   float:left;
+   width: 20%;
+   padding-left: 100px; 
+}
+#upright
+{
+padding-left: 40px;
+   float:left;
+   width: 80%;
+}
+
+#bodydiv{
+	padding-right: 30px;
+}

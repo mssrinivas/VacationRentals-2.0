@@ -1,0 +1,19 @@
+#left
+{
+	padding-top: 100px;
+	width: 15%;
+}
+
+#right
+{
+   float: right;
+   padding-left: 45%;
+   width : 50%;
+}
+
+.addtexttocenter
+{
+	padding-top: 50px;
+	padding-left : 42%;
+	align-content: center;
+}

@@ -1,0 +1,61 @@
+/*.card-link {  /* This is the link of the entire card */
+  /*          position: absolute;
+            height: 100%;
+            width: 100%;
+            z-index: 1;
+
+            &:hover ~ .card-title {  /* Hints by underlining title that the card is clickable */
+  /*              text-decoration: underline;
+            }
+        }
+
+  .card-deck{
+  	margin: 1rem auto;
+  	padding-right: 50px;
+  	 width: initial;
+  }
+
+
+.centering
+{
+  padding-left: 100px;
+  padding-right: 100px;
+  align-content: center;
+}
+*/
+
+.descrip
+{
+  padding-top: 20px !important;
+}
+.ownercentering
+{
+  justify-content: center;
+}
+.ownercard-title
+{
+  align-content: center;
+}
+.ownercard3 {
+  background: #fff;
+  border-radius: 6px;
+  margin: 1rem;
+  position: relative;
+}
+
+.ownerdescrip
+{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.ownerchangeimage
+{
+  width: 50%;
+  height: 50%;
+}
+
+.ownercard-2 {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+

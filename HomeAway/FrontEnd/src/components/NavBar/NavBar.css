@@ -1,0 +1,14 @@
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000} 
+
+.loadImage
+{
+	background-image: url("http://3.bp.blogspot.com/_VKpsi8OV0mE/TH4DJi-oXhI/AAAAAAAAAEA/FBG84SpdKKY/s1600/cddde504cd01cb28a39639fcb70da8de.jpg");
+	height: 2000px;
+
+}

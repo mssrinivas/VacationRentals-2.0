@@ -1,0 +1,105 @@
+/*.card-link {  /* This is the link of the entire card */
+  /*          position: absolute;
+            height: 100%;
+            width: 100%;
+            z-index: 1;
+
+            &:hover ~ .card-title {  /* Hints by underlining title that the card is clickable */
+  /*              text-decoration: underline;
+            }
+        }
+
+  .card-deck{
+  	margin: 1rem auto;
+  	padding-right: 50px;
+  	 width: initial;
+  }
+
+
+.centering
+{
+  padding-left: 100px;
+  padding-right: 100px;
+  align-content: center;
+}
+*/
+.vspace
+{
+  padding-bottom: 118px;
+}
+
+.form-controly
+{
+  width: 200px !important;
+}
+.centering
+{
+  justify-content: center;
+}
+.rowy
+{
+  padding-top: 5%;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.bordering
+{
+  border-width: 0.5px;
+  border-style: solid;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 5px;
+}
+
+
+
+.booknow
+{
+  background-color: #0067db;
+  color: #ffff;
+  border-radius: 0%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.imagey
+{
+  height: 70%;
+  width: 100%;
+}
+.card-title
+{
+  align-content: center;
+}
+
+.contenty
+{
+  padding-left: 100px;
+  margin-bottom: 100px;
+}
+
+.booking
+{
+  padding-top: 10px;
+  padding-bottom: 62px;
+}
+.col-md-8
+{
+  height: 700px;
+}
+.boldy
+{
+    font-weight: bold;
+}
+
+.item
+{
+  padding-left: 60px;
+  margin-bottom: 50px;
+
+}
+
+.itemy
+{
+  word-spacing: 60px;
+}

@@ -1,0 +1,43 @@
+.active {
+	background-color: blue;
+	color : blue;
+}
+.navbar
+{
+	padding-top: 20px;
+	padding-right: 80px;
+}
+  .navbar-nav > li.navbar-right {
+    float: right !important;
+  }
+
+.droppy
+{
+  padding-top: 50px;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+
+.lower
+{
+  padding-top: 15px;
+}
+
+.bg
+{
+  background-image: url("https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld6.jpg")
+}
+
+.bgwhite
+{
+  background-color: #fff;
+}
+
+.backwhite
+{
+   color: #fff !important;
+}

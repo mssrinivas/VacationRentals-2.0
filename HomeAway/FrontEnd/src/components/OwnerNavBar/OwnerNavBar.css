@@ -1,0 +1,21 @@
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    padding-left: 30px;
+}
+.cellContainer {
+  width: 25%;
+  float: left;
+}
+.active {
+	background-color: blue;
+	color : blue;
+}
+
+.navbar
+{
+    padding-left: 100px;
+    height:  30px;
+}

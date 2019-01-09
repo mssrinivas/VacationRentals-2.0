@@ -1,0 +1,25 @@
+#centering
+{
+	padding-top: 150px;
+	width: 800px;
+	height: 100px;
+	padding-left: 160px;
+}
+.middle
+{
+	padding-top: 10%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.headingtrips
+{
+	padding-left: 20%;
+	font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: #323f4d;
+}
+
+.blueerror
+{
+	color : #0067db;
+}

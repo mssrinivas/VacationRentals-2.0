@@ -1,0 +1,16 @@
+.sizereduce
+{
+   padding : 0px;
+}
+
+.card3-2 {
+    background: #fff;
+    border-radius: 6px;
+    margin: 1rem;
+    position: relative;
+    padding: 0px;
+  }
+
+  .card-2-2 {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  }

@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "M S Srinivas",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express-validator": "^5.3.0",
+    "fs": "0.0.1-security",
+    "i": "^0.3.6",
+    "kafka": "^0.2.3",
+    "kafka-node": "^3.0.1",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.2",
+    "multer": "^1.4.0",
+    "mysql": "^2.16.0",
+    "node-gyp": "^3.8.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "react-cookie": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}

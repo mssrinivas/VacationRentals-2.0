@@ -1,0 +1,25 @@
+{
+  "name": "kafka-backend",
+  "version": "1.0.0",
+  "description": "Kafka Backend for HomeAway",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "MSSrinivas",
+  "license": "ISC",
+  "dependencies": {
+    "circular-json": "^0.5.8",
+    "crypto": "^1.0.1",
+    "kafka": "^0.2.3",
+    "kafka-node": "^3.0.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.31",
+    "mongoose": "^5.3.5",
+    "nodemon": "^1.18.4",
+    "node-gyp": "^3.8.0",
+    "bcrypt": "^3.0.2"
+  },
+  "devDependencies": {}
+}
