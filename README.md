@@ -4,9 +4,9 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
 
  
 ## Technologies Used:
-  * Front End : ReactJS, HTML, CSS, Bootstrap 
-  * Back End  : NodeJS, ExpressJS
-  * Database  : MySQL
+  * Front End : React-Redux, HTML, CSS, Bootstrap 
+  * Back End  : NodeJS, ExpressJS, JWT, Kafka, Mongoose
+  * Database  : MongoDB
  
 
 ## Functionality 
